@@ -15,21 +15,21 @@ You can click the Preview link to take a look at your changes.
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pate)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📌 Main Skills
-- Frontend : JavaScript/TypeScript, CSS/SCSS, Bootstrap, Tailwind, React/Next.js, Angular, Vue/Nuxt.js
-- Backend : PHP/Laravel, Python/Django, C#/.NET, Node.js
+- Frontend : JavaScript/TypeScript, CSS/SCSS, Tailwind, Angular, React and Next.js, Vue and Nuxt.js
+- Backend : Node.js, Python/Django, PHP/Laravel, C#/.NET, 
 - DataBase : PostgreSQL, MongoDB, MySQL
-- Blockchain :  Ethereum, Solana, Web3.js, Solidity
-- Tools : Figma, Supabase, Git, AWS, Azure, Docker, Slack, Agile/Scrum, CMS, Adobe, AI
+- Tools : Git, Github, Azure, Figma, Docker, CMS, Supabase, AWS, AI
 
 ### 😄 About Me
-Hi, I am John, a highly skilled and motivated Developer with proven history in designing and implementing web and blockchain -based projects.
-With rich experience in web and blockchain development, I specialize in crafting solutions that not only meet your needs but exceed your expectations.
+Hi, I am a highly skilled and motivated developer with a proven track record in designing and implementing web-based projects.
 
-I have extensive knowledge in various programming languages such as JavaScript/TypeScript, Python, C#, and PHP.
-I have worked on many DeFi and dApps based on Ethereum and Solana Blockchain and I have rich experience in developing and writing Smart Contracts.
+With extensive experience in web development, I specialize in creating solutions that not only meet your requirements, but exceed your expectations.
 
-I have worked on various web and blockchain projects, from simple to complex project, and have always delivered quality work on time.
-Additionally, my effective communication skills allow me to collaborate efficiently with cross-functional teams.
+I have extensive knowledge in various programming languages such as JavaScript, TypeScript, Python, C#, and PHP. 
+
+I have worked on a variety of web projects, from simple to complex, and have always delivered high-quality work on time.
+
+I have extensive experience optimizing web applications for speed and scalability, and ensuring a seamless user experience across devices and platforms.
 
 In my free time, I try to learn new things. Lifelong learning is one of my goals.
 
