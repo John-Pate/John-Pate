@@ -12,7 +12,9 @@ John-Pate/John-Pate is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Pate)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ### 📌 Main Skills
 - Frontend : JavaScript/TypeScript, CSS/SCSS, Tailwind, Angular, React and Next.js, Vue and Nuxt.js
